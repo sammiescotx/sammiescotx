@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sammiescotx
+- 👋 Hi, I’m @samuelabdullahi
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on experience programmers
 - 📫 How to reach me samuelabdullahi216@gmail.com”
 
